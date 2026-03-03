@@ -1,6 +1,5 @@
 # Stopwatch
-
-A functional stopwatch application built with vanilla JavaScript, HTML, and CSS.
+A functional stopwatch application built with JavaScript, HTML, and CSS.
 
 ## Features
 - Start, Stop, and Reset functionality.
@@ -14,7 +13,3 @@ A functional stopwatch application built with vanilla JavaScript, HTML, and CSS.
 - State management for hours, minutes, seconds, and active intervals to prevent overlapping timers.
 - DOM manipulation for real-time UI updates and dynamic list creation for laps.
 - CSS Flexbox for layout and styling.
-
-## Installation
-1. Clone the repository.
-2. Open index.html in your browser.
